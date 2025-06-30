@@ -1,3 +1,18 @@
+| :placard: Vitrine.Dev |  |
+| -------------  | --- |
+| :sparkles: Nome        | **TS_React_API_Pokemon**
+| :label: Tecnologias | Javascript Typescript React Axios
+
+<h1 align="left">Exercise to access Pokemon API</h1>
+<h1 align="left">Exercício para acessar API Pokemon</h1>
+
+![projetoIntegrador](https://github.com/user-attachments/assets/a34ee562-6e33-4c09-a21b-2d59f9084eae)
+
+
+Projeto Integrador REACT
+
+https://docs.google.com/forms/d/e/1FAIpQLSfZLFvcldi8BxO2Uf6nipOBc4weRe9fqv8W3oNG6VwPeFvzNA/viewform
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
