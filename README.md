@@ -1,13 +1,16 @@
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **TS_React_API_Pokemon**
-| :label: Tecnologias | Javascript Typescript React Axios
+| :label: Tecnologias | Javascript React Axios
 
 <h1 align="left">Exercise to access Pokemon API</h1>
 <h1 align="left">Exercício para acessar API Pokemon</h1>
 
 ![projetoIntegrador](https://github.com/user-attachments/assets/a34ee562-6e33-4c09-a21b-2d59f9084eae)
 
+Para rodar no Terminal do VS Code:
+
+> npm run dev
 
 Projeto Integrador REACT
 
